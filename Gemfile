@@ -17,6 +17,7 @@ gem 'bootstrap-sass-rails'
 gem 'bcrypt', '3.1.11'
 gem 'devise', '4.1.1'
 gem "paperclip", "~> 5.0.0"
+gem 'aws-sdk', '~> 2.3'
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
